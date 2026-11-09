@@ -71,4 +71,4 @@ Personal portfolio showcasing selected projects, laboratory work and experiments
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/aleksandr-ipanov) · [Portfolio](https://alexto-ip.github.io/aleksandr_ipanov/)
+[LinkedIn](https://linkedin.com/in/aleksandr-ipanov) · [Portfolio](https://aleksandr.is-a.dev/)
